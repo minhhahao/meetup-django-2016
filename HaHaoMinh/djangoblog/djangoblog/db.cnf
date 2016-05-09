@@ -1,0 +1,7 @@
+[client]
+database = djangoblog
+host = localhost
+user = minhha
+password = haminh
+default-character-set = utf8
+port = 3306
